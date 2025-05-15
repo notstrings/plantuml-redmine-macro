@@ -1,4 +1,5 @@
 勝手にRedmine6対応したものです
+
 動作確認：Redmine 6.0.5
 
 PlantUML Macro Plugin
